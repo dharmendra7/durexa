@@ -1317,9 +1317,9 @@ section {
   }
 }
 
-.member-img img {
+/* .member-img img {
   border-radius: 50%;
-}
+} */
 
 .team .member .member-img img {
   position: relative;
